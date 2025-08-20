@@ -4,7 +4,7 @@ In this community we maintain the DxContainer (DxC) Specification. The DxContain
 
 Join us to continue to make this specification and the reference CLI implementation even better! There are several ways you can chat with the specification maintainers and the community:
 
-- Open a GitHub [Discussion](https://github.com/dxcontainer/.github/discussions).
+- Open a GitHub [Discussion](https://github.com/orgs/dxcontainer/discussions).
 - Open issues on the relevant repository in the `dxcontainer` organization.
 
 ### Repositories
