@@ -11,8 +11,8 @@ Join us to continue to make this specification and the reference CLI implementat
 
 The list below provides a list of repositories belonging to the DxContainer organization.
 
-- `dxcontainer/dxcontainer`: Go Library for DxContainers.
-- `dxcontainer/specification`: DxContainer Specification.
-- `dxcontainer/cli`: Reference CLI Implementation.
-- `dxcontainer/images`: Pre-Build DxContainer Images.
-- `dxcontainer/features`: Pre-Build DxContainer Features.
+- [`dxcontainer/dxcontainer`](https://github.com/dxcontainer/dxcontainer): Go Library for DxContainers.
+- [`dxcontainer/specification`](https://github.com/dxcontainer/specification): DxContainer Specification.
+- [`dxcontainer/cli`](https://github.com/dxcontainer/cli): Reference CLI Implementation.
+- [`dxcontainer/images`](https://github.com/dxcontainer/images): Pre-Build DxContainer Images.
+- [`dxcontainer/features`](https://github.com/dxcontainer/features): Pre-Build DxContainer Features.
